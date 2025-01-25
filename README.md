@@ -18,20 +18,17 @@ Puedes probar el proyecto en el siguiente enlace:
 ## 📂 Estructura del Proyecto
 
 El proyecto está organizado de la siguiente manera:
-challenge-amigo-secreto_esp-main/
 
-challenge-amigo-secreto_esp-main/
-│
-├── assets/
-│ ├── amigo-secreto.png # Imagen del banner principal
-│ ├── play_circle_outline.png # Ícono para el botón de sorteo
-│ ├── success.mp3 # Sonido de éxito
-│ ├── error.mp3 # Sonido de error
-│ ├── winning.mp3 # Sonido de ganador
-│
-├── app.js # Lógica principal del juego
-├── index.html # Estructura HTML del proyecto
-├── style.css # Estilos del proyecto
+📁 **challenge-amigo-secreto_esp-main/**
+- 📁 **assets/**
+  - 🖼️ `amigo-secreto.png`: Imagen del banner principal.
+  - 🖼️ `play_circle_outline.png`: Ícono para el botón de sorteo.
+  - 🔊 `success.mp3`: Sonido de éxito.
+  - 🔊 `error.mp3`: Sonido de error.
+  - 🔊 `winning.mp3`: Sonido de ganador.
+- 📄 `app.js`: Lógica principal del juego.
+- 📄 `index.html`: Estructura HTML del proyecto.
+- 🎨 `style.css`: Estilos del proyecto.
 
 ## 🖥️ Cómo usar el proyecto
 
