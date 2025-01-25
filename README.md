@@ -50,12 +50,10 @@ Disfruta del resultado y reinicia el juego si lo deseas.
 ## 🎨 Capturas de pantalla
 
 ### Pantalla principal
-*(Puedes agregar una captura de pantalla de la pantalla principal aquí)*
+![Pantalla Principal](assets/Pantalla_Principal.png)
 
 ### Resultado del sorteo
-*(Puedes agregar una captura de pantalla del resultado del sorteo aquí, si lo deseas)*
-
-Si necesitas más imágenes, puedes incluir capturas de pantalla adicionales para mostrar el diseño y la funcionalidad del proyecto.
+![Pantalla Principal](assets/Pantalla_Resultado.png)
 
 ## 🔊 Sonidos
 
