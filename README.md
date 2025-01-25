@@ -34,7 +34,7 @@ El proyecto está organizado de la siguiente manera:
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/tu-usuario/challenge-amigo-secreto_esp-main.git](https://github.com/jvanegas2000/challenge-amigo-secreto_esp-main.git
+   git clone https://github.com/tu-usuario/challenge-amigo-secreto_esp-main.git
 
 Abre el archivo `index.html` en tu navegador.  
 Agrega nombres en el campo de texto y haz clic en "Añadir".  
